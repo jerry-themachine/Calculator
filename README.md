@@ -1,0 +1,1 @@
+Este é um projeto que contempla a elaboração de uma calculadora utilizando HTML, CSS e Javascript.
